@@ -1,3 +1,2 @@
 #Sentiment Analysis
-# Sentiment Analysis
-#Sentiment Analysis
+## Determining sentiments using text
